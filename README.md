@@ -1,2 +1,2 @@
 # markdown-test
-测试github的markdown支持程度<span style="width:16px;height:16px;display:inline-block;background-color:#09BB07;color:#FFFFFF">√</span>
+测试github的markdown支持程度<svg class="icon" style="width: 1em; height: 1em;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3821"><path d="M512 57.5C261.4 57.5 57.5 261.4 57.5 512S261.4 966.5 512 966.5 966.5 762.6 966.5 512 762.6 57.5 512 57.5z" fill="#7CB444" p-id="3822"></path><path d="M486.7 688.8c-5.3 0-10.6-1.6-15.1-5l-202-151.5c-11.2-8.4-13.4-24.2-5.1-35.4s24.2-13.4 35.3-5.1l182.8 137.1 237.1-284.6c9-10.7 24.8-12.2 35.6-3.2 10.7 8.9 12.2 24.9 3.2 35.6L506 679.7c-4.8 5.9-12 9.1-19.3 9.1z" fill="#FFFFFF" p-id="3823"></path></svg>
